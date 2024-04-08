@@ -20,11 +20,11 @@ rentCar3 = {
   "Model": "", 
   "Brand": "",
   "Color": "Violet",
-  "Price": 400
+  "Price": 1000
 }
 rentCar4 = {
   "Model": "", 
   "Brand": "",
-  "Color": "Red",
-  "Price": 400
+  "Color": "Yellow",
+  "Price": 1500
 }
