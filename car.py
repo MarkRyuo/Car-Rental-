@@ -19,10 +19,10 @@ rentCar2 = {
 }
 
 rentCar3 = {
-  "Model": "", 
-  "Brand": "",
-  "Color": "Violet",
-  "Price": 1000,
+  "Model": "Accord",
+  "Brand": "Honda",
+  "Color": "Silver",
+  "Price": 600,
   "Available": True 
 }
 
