@@ -8,3 +8,7 @@ rentCar1 = {
   "Color": "White",
   "Price": 500 
 }
+
+rentCar2 = {
+  
+}
