@@ -6,5 +6,5 @@ rentCar1 = {
   "Model": "Civic",
   "Brand": "Honda",
   "Color": "White",
-  ""
+  "Price": 500 
 }
