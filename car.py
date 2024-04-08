@@ -15,3 +15,16 @@ rentCar2 = {
   "Color": "Red",
   "Price": 400
 }
+
+rentCar3 = {
+  "Model": "", 
+  "Brand": "",
+  "Color": "Violet",
+  "Price": 400
+}
+rentCar4 = {
+  "Model": "", 
+  "Brand": "",
+  "Color": "Red",
+  "Price": 400
+}
