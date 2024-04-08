@@ -3,8 +3,8 @@
 # model, Brand, color, price, 
 
 rentCar1 = {
-  "model": "Honda",
-  "Brand"
-  "color": "White",
+  "Model": "Civic",
+  "Brand": "Honda",
+  "Color": "White",
   ""
 }
