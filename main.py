@@ -1,3 +1,3 @@
 import car 
 
-print(car.rentCar1("model"))
+print(car.rentCar1["model"])
