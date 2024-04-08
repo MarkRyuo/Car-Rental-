@@ -6,7 +6,7 @@ rentCar1 = {
   "Model": "Civic",
   "Brand": "Honda",
   "Color": "White",
-  "Price": 500,
+  "Price": 1200,
   "Available": True  
 }
 
@@ -14,7 +14,7 @@ rentCar2 = {
   "Model": "Corolla",
   "Brand": "Toyota",
   "Color": "Black",
-  "Price": 550,
+  "Price": 1100,
   "Available": True 
 }
 
@@ -22,13 +22,13 @@ rentCar3 = {
   "Model": "Accord",
   "Brand": "Honda",
   "Color": "Silver",
-  "Price": 600,
+  "Price": 1000,
   "Available": True 
 }
 
 rentCar4 = {
-  "Model": "", 
-  "Brand": "",
+  "Model": "Camry", 
+  "Brand": "Toyota",
   "Color": "Yellow",
   "Price": 1500,
   "Available": True 
