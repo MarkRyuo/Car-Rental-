@@ -35,9 +35,9 @@ rentCar4 = {
 }
 
 rentCar4 = {
-  "Model": "Camry", 
-  "Brand": "Toyota",
-  "Color": "Yellow",
+  "Model": "Fusion", 
+  "Brand": "Ford",
+  "Color": "Red",
   "Price": 1500,
   "Available": True 
 }
