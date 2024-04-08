@@ -12,4 +12,5 @@ rentCar1 = {
 rentCar2 = {
   "Model": "", 
   "Brand": "",
+  "Color": "Red",
 }
