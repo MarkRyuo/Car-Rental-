@@ -33,3 +33,11 @@ rentCar4 = {
   "Price": 1500,
   "Available": True 
 }
+
+rentCar4 = {
+  "Model": "Camry", 
+  "Brand": "Toyota",
+  "Color": "Yellow",
+  "Price": 1500,
+  "Available": True 
+}
