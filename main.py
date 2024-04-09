@@ -7,6 +7,6 @@ import car
 
 # First Log in a user 
 
-user_log = 
+user_log = input("Input your name: ") 
 
 
