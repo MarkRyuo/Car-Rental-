@@ -12,8 +12,12 @@ question_log = input("Do you want to login? (y/n): ")
 
 if question_log == "y" or question_log == "Y" :
   print("Continue")
-else: 
+elif question_log == "n" or question_log == "N": 
+  print("Thank you for visiting")
   exit()
+else: 
+  print(f"Your input is not available: {question_log}")
+  
   
 
 
