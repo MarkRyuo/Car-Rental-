@@ -17,9 +17,11 @@ user_log = input("Input your username: ")
 while not user_log :
   user_log = input("Input your username: ")
 
-user_pass = input("Enter your password: ") 
 
 user1 = userdata.user1 
 
 if user_log in user1["username"] : 
   print("Who are you?")
+
+
+user_pass = input("Enter your password: ") 
