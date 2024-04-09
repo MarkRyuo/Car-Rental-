@@ -12,7 +12,7 @@ question_log = input("Do you want to login? (y/n): ")
 
 if question_log == "y" or question_log == "Y" :
   print("Continue")
-elif question_log == "n" or question_log == "N": 
+elif question_log.lower() == "n" : 
   print("Thank you for visiting")
   exit()
 else: 
