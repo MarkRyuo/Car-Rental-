@@ -37,6 +37,7 @@ def userlog() :
     print("Who are you?")
     exit()
 
+userlog()
 
 def userPass() :
   user_pass = input("Enter your password: ")
