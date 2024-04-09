@@ -11,7 +11,7 @@ from userdata import user1
 question_log = input("Do you want to login? (y/n): ")
 
 if question_log == "y" and question_log == "Y" :
-  continue
+  print("Continue")
 else: 
   exit()
   
