@@ -23,5 +23,6 @@ if user_log in user1["username"] :
   print("Hello?")
 else : 
   print("Who are you?")
+  exit()
 
 user_pass = input("Enter your password: ") 
