@@ -36,4 +36,11 @@ else :
   print("Who are you?")
   exit()
 
-user_pass = input("Enter your password: ") 
+user_pass = input("Enter your password: ")
+
+def userPass() :
+  if user_pass in user1["password"] :
+    print("Welcome to Arc Car Rental")
+    
+  while not user_pass in user1["password"] :
+    user_pass = input("Enter your password:")  
