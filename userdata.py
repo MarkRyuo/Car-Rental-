@@ -4,5 +4,7 @@
 
 user1 = {
   
-  "username" : "Ryuo",  
+  "username" : "Ryuo",
+  "password" : "imryuo",
+  "age" : 21,   
 }
