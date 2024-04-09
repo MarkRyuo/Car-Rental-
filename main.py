@@ -11,9 +11,10 @@ import userdata
 
 
 user_log = input("Input your username: ")
-user_pass = input("Enter your password: ") 
 
 # Create a while loop for inputting username
 
 while not user_log :
   user_log = input("Input your username: ")
+
+user_pass = input("Enter your password: ") 
