@@ -1,4 +1,5 @@
 import car 
+import userdata 
 
 
 # Create a Identity Check or fill up form to rent a car 
@@ -7,6 +8,10 @@ import car
 
 # First Log in a user 
 
-user_log = input("Input your name: ") 
 
+
+user_log = input("Input your username: ")
+user_pass = input("Enter your password: ") 
+
+# Create a while loop for inputting username
 
