@@ -17,6 +17,7 @@ elif question_log == "n" or question_log == "N":
   exit()
 else: 
   print(f"Your input is not available: {question_log}")
+  exit()
   
   
 
