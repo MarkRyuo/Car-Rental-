@@ -21,20 +21,21 @@ else:
   
   
 
+def userlog() :
 
-user_log = input("Input your username: ")
+  user_log = input("Input your username: ")
 
 # Create a while loop for inputting username
 
-while not user_log :
+  while not user_log :
   user_log = input("Input your username: ")
 
 
-if user_log in user1["username"] : 
-  print("Hello?")
-else : 
-  print("Who are you?")
-  exit()
+  if user_log in user1["username"] : 
+    print("Hello?")
+  else : 
+    print("Who are you?")
+    exit()
 
 
 def userPass() :
