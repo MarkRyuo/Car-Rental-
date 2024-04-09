@@ -19,8 +19,6 @@ while not user_log :
   user_log = input("Input your username: ")
 
 
-user1 = userdata.user1
-
 if user_log in user1["username"] : 
   print("Hello?")
 
