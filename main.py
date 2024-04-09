@@ -8,7 +8,10 @@ from userdata import user1
 
 # First Log in a user 
 
-question_log = ("Do you want to login? (y/n): ")
+question_log = input("Do you want to login? (y/n): ")
+
+if question_log == "y" and question_log == "Y" :
+  
 
 
 user_log = input("Input your username: ")
