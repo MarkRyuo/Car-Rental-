@@ -51,5 +51,6 @@ def userPass() :
 
 userPass()
 
-cars = car.rentCar1["Model"]
+rentCar1 = car.rentCar1["Model"]
+
   
