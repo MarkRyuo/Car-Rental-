@@ -43,9 +43,11 @@ def userPass() :
   user_pass = input("Enter your password: ")
   
   if user_pass in user1["password"] :
+    print("Log in Successfully")
     print("Welcome to Arc Car Rental")
   while not user_pass in user1["password"] :
     print("Input your password")
     user_pass = input("Try again: ") 
 
-userPass()  
+userPass()
+  
